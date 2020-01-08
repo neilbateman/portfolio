@@ -1,5 +1,6 @@
 module.exports = {
     plugins: [
-        `gastby-plugin-react-native-web`
-    ]
-}
+      `gatsby-plugin-react-native-web`,
+      /* ... */
+    ],
+  };

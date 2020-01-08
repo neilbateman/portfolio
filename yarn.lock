@@ -10905,6 +10905,11 @@ react-native-view-shot@3.0.2:
   resolved "https://registry.yarnpkg.com/react-native-view-shot/-/react-native-view-shot-3.0.2.tgz#daccaec5b8038a680b17533ff7e72876e68c7d0d"
   integrity sha512-JZOkGo2jzSX2b7N6N2uDr0wQjSz+QmBtY8jzeo0XJY6bLOfaY5nmWyYxDmDRoSpKiFkGTCkyhUqNnjo6lXOtEw==
 
+react-native-web-hooks@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-native-web-hooks/-/react-native-web-hooks-2.0.2.tgz#818bb2f799c01ab68f50f1a094381c5b21ab621c"
+  integrity sha512-p2zyw7bT+N9av+l4N5mg7gBijrfEXiPGK6nx7c983/DyVCAUbdI/bM/YW4ht7VYXhu/qnn5hg7T1w/tnfLUREA==
+
 react-native-web@~0.11.7:
   version "0.11.7"
   resolved "https://registry.yarnpkg.com/react-native-web/-/react-native-web-0.11.7.tgz#d173d5a9b58db23b6d442c4bc4c81e9939adac23"
