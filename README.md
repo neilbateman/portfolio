@@ -1,4 +1,4 @@
-# [Neil's Platform Agnostic Portfolio](https://https://master.d3ht7dm7chibd7.amplifyapp.com/) 
+# [Neil's Platform Agnostic Portfolio](https://master.d3ht7dm7chibd7.amplifyapp.com/) 
 # Made with React Native, Expo, Gatsby, AWS
 
 ## Technologies
