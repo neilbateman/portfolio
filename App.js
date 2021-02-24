@@ -10,7 +10,6 @@ export default function App() {
       <Text>this bad boy uses Gatsby pre-rendering for a performant</Text>
       <Text>webview, and also downloadable on iOS, Android, and on your desktop as a PWA.</Text>
       <Text>Stay tuned for updates!</Text>
-
     </View>
   );
 }
