@@ -7,8 +7,8 @@ export default function App() {
       <Text>Welcome to Neil's Portfolio</Text>
       <Text>Created with Gatsby and Expo</Text>
       <Text>Aiming for a truly platform agnostic application</Text>
-      <Text>this bad boy uses Gatsby pr-rendering for a performant</Text>
-      <Text>webview, downloadable on IOS and Android.</Text>
+      <Text>this bad boy uses Gatsby pre-rendering for a performant</Text>
+      <Text>webview, and also downloadable on iOS, Android, and on your desktop as a PWA.</Text>
       <Text>Stay tuned for updates!</Text>
 
     </View>
