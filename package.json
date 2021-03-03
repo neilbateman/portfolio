@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "expo": "^40.0.0",
+    "expo-font": "~8.4.0",
+    "expo-linear-gradient": "~8.4.0",
     "gatsby": "^2.18.18",
     "gatsby-plugin-react-native-web": "^3.0.0-beta.5",
     "preact": "^10.5.12",
